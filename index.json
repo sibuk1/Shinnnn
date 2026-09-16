@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Contoh Ekstensi Anime",
+    "pkg": "eu.kanade.tachiyomi.extension.id.contohanime",
+    "apk": "anime-v1.0.0.apk",
+    "version": "1.0.0",
+    "versionCode": 100,
+    "lang": "id",
+    "nsfw": 0,
+    "iconUrl": "https://raw.githubusercontent.com/sibuk1/Shinnnn/main/icon.png"
+  }
+]
